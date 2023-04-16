@@ -1,1 +1,1 @@
-# Forest-Type-Prediction
+# Forest-Type-Prediciton
